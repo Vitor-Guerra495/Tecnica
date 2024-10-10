@@ -1,0 +1,10 @@
+C:\Users\funky\Downloads\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\funky\Downloads\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\funky\Downloads\3\bin\Debug\3.exe.config
+C:\Users\funky\Downloads\3\bin\Debug\3.exe
+C:\Users\funky\Downloads\3\bin\Debug\3.pdb
+C:\Users\funky\Downloads\3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\funky\Downloads\3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\funky\Downloads\3\obj\Debug\3.csproj.Up2Date
+C:\Users\funky\Downloads\3\obj\Debug\3.exe
+C:\Users\funky\Downloads\3\obj\Debug\3.pdb
